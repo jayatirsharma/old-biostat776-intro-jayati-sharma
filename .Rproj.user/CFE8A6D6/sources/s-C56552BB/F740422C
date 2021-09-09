@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631144864366.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F740422C",
+    "lastKnownWriteTime" : 1631145050,
+    "last_content_update" : 1631145050811,
+    "path" : "~/Desktop/jayati-website/config.yaml",
+    "project_path" : "config.yaml",
+    "properties" : {
+        "cursorPosition" : "16,4",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
