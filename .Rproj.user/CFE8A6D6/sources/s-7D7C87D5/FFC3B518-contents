@@ -1,0 +1,37 @@
+---
+title: "About Me"
+author: "Jayati Sharma"
+date: 2021-09-08T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Welcome to my site!
+My name is **Jayati** (*rhymes with homogeneity*) and I'm a 2nd year ScM student in genetic epi. 
+I have done undergraduate research in genetics using various statistical methods, and am most comfortable coding in R (& have been for the past 5ish years). I hope to learn more about making my work reproducible and how to take advantage of all the new and cool packages R offers, especially for dataviz!
+
+![](images/js_pfp.jpg)
+
+
+# Five Fun Facts:
+
+1. (I think) I've recently outgrown my avocado allergy! (Guac is so good.)
+2. The most adventurous thing I've done is going whitewater rafting in Ecuador a few years ago.
+3. I can listen to the same song on repeat for days.
+4. I'm allergic to cats and dogs (*this is actually not very fun*).
+5. I skipped the second grade. 
+
+
+# Something that interests me:
+[Flatland](https://www.youtube.com/watch?v=C8oiwnNlyE4), an 1884 book by Edwin Abbott later adapted to a movie, is about shape-based characters in an increasingly complicated world. It's really about multi-dimensionality and complex math, but in a fun and fictional way.
+
+![](images/flatland.jpeg)
+
+
+
+
+
